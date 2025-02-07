@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "(template/レギュメン用プロフィール.md",
+                "file": "OBS/overview/明星騎士団.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "レギュメン用プロフィール"
+              "title": "明星騎士団"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "(template/レギュメン用プロフィール.md",
+                "file": "OBS/overview/明星騎士団.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "レギュメン用プロフィールへのバックリンク"
+              "title": "明星騎士団へのバックリンク"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "(template/レギュメン用プロフィール.md",
+                "file": "OBS/overview/明星騎士団.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "レギュメン用プロフィールからのアウトゴーイングリンク"
+              "title": "明星騎士団からのアウトゴーイングリンク"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "(template/レギュメン用プロフィール.md",
+                "file": "OBS/overview/明星騎士団.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "レギュメン用プロフィールのアウトライン"
+              "title": "明星騎士団のアウトライン"
             }
           },
           {
@@ -206,12 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91da9d076211d2ce",
+  "active": "3a92ce60cd21dd35",
   "lastOpenFiles": [
+    "Sofia's ally/ソフィア・セレス.md",
+    "(template/レギュメン用プロフィール.md",
     "(overview/魔法少女と世界戦争.md",
     "magic basic/magic girl/固有武器.md",
     "magic basic/magic girl/魔法少女.md",
-    "Sofia's ally/ソフィア・セレス.md",
     "magic basic/dark & light",
     "magic basic/magic girl",
     "OBS/overview/明星騎士団.md",
