@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magic category/basic magic/変身魔法.md",
+                "file": "magic basic/magic girl/精霊.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "変身魔法"
+              "title": "精霊"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "magic category/basic magic/変身魔法.md",
+                "file": "magic basic/magic girl/精霊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "変身魔法へのバックリンク"
+              "title": "精霊へのバックリンク"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "magic category/basic magic/変身魔法.md",
+                "file": "magic basic/magic girl/精霊.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "変身魔法からのアウトゴーイングリンク"
+              "title": "精霊からのアウトゴーイングリンク"
             }
           },
           {
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "magic category/basic magic/変身魔法.md",
+                "file": "magic basic/magic girl/精霊.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "変身魔法のアウトライン"
+              "title": "精霊のアウトライン"
             }
           },
           {
@@ -192,20 +192,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5e9b3d5d23bb5a5",
+  "active": "3a92ce60cd21dd35",
   "lastOpenFiles": [
     "magic basic/magic girl/魔法少女.md",
+    "magic basic/magic girl/精霊.md",
     "magic category/basic magic/変身魔法.md",
+    "magic basic/magic girl/固有武器.md",
     "magic category/basic magic",
     "magic category",
     "magic basic/magic",
-    "magic basic/magic girl/精霊.md",
     "(overview/魔法少女と世界戦争.md",
     "Sofia's ally/ソフィア・セレス.md",
     "(idealist/ランダムひらがな.md",
     "OBS/overview/明星騎士団.md",
     "(template/レギュメン用プロフィール.md",
-    "magic basic/magic girl/固有武器.md",
     "magic basic/dark & light",
     "magic basic/magic girl",
     "magic basic",
