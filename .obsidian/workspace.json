@@ -152,10 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emma's family/Crawfords/サミュエル・E・クロフォード.md"
+                "file": "magic basic/magic girl/魔法少女.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "サミュエル・E・クロフォードのアウトライン"
+              "title": "魔法少女のアウトライン"
             }
           },
           {
@@ -171,6 +174,16 @@
               },
               "icon": "lucide-tags",
               "title": "タグ"
+            }
+          },
+          {
+            "id": "91d1888fc42a9af7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -189,10 +202,11 @@
       "command-palette:コマンドパレットを開く": false,
       "random-note:ランダムノートを開く": false,
       "obsidian-kanban:カンバンボードを新規作成": false,
-      "obsidian-trash-explorer:Open trash explorer": false
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a92ce60cd21dd35",
+  "active": "ee49170506042b8f",
   "lastOpenFiles": [
     "Sofia's ally/ソフィア・セレス.md",
     "magic basic/magic girl/魔法少女.md",

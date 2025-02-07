@@ -15,5 +15,6 @@
   "oz-image-plugin",
   "highlightr-plugin",
   "find-unlinked-files",
-  "colored-tags"
+  "colored-tags",
+  "obsidian-git"
 ]
