@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sofia's ally/ソフィア・セレス.md",
+                "file": "magic category/basic magic/変身魔法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ソフィア・セレス"
+              "title": "変身魔法"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sofia's ally/ソフィア・セレス.md",
+                "file": "magic category/basic magic/変身魔法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "ソフィア・セレスへのバックリンク"
+              "title": "変身魔法へのバックリンク"
             }
           },
           {
@@ -206,15 +206,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a92ce60cd21dd35",
+  "active": "91da9d076211d2ce",
   "lastOpenFiles": [
-    "(idealist/ランダムひらがな.md",
+    "magic basic/magic girl/魔法少女.md",
+    "magic category/basic magic/変身魔法.md",
+    "magic category/basic magic",
+    "magic category",
+    "magic basic/magic",
+    "magic basic/magic girl/精霊.md",
+    "(overview/魔法少女と世界戦争.md",
     "Sofia's ally/ソフィア・セレス.md",
+    "(idealist/ランダムひらがな.md",
     "OBS/overview/明星騎士団.md",
     "(template/レギュメン用プロフィール.md",
-    "(overview/魔法少女と世界戦争.md",
     "magic basic/magic girl/固有武器.md",
-    "magic basic/magic girl/魔法少女.md",
     "magic basic/dark & light",
     "magic basic/magic girl",
     "magic basic",
@@ -224,8 +229,6 @@
     "BSO/無題のファイル.md",
     "OBS",
     "(idealist",
-    "magicforce",
-    "(overview",
     "Emma's family/Crawfords/アリッサ・クロフォード.md",
     "Emma's family/Crawfords/サミュエル・E・クロフォード.md",
     "Halford school/four houses/カッツローグ寮.md",
@@ -241,9 +244,6 @@
     "Halford school/founder's treasure/マクスウェルの遊技盤.md",
     "Halford school/founder's treasure/フィルレイルの羽ペン.md",
     "geography&location/Londo/メープルメイヤー.md",
-    "(idea list/name-jp.md",
-    "Emma's family/Crawfords/エマ・クロフォード.md",
-    "magic category/ancient magic",
     "世界観画像/Soeロゴ.png",
     "無印・キャラ設定/相関図.canvas",
     "画像/2dg.jpg",
