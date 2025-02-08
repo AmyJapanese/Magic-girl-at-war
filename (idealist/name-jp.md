@@ -2,8 +2,8 @@
 aliases: []
 ---
 # material
-kokoga, iraino atta kyoukaika
-furuku kara aru kyokai de, chiiki no jumin kara mo aisarete iru?
-saikin mad
+tokubetsu shido
+ayashi oko
+sunao ni naru oko
 # surname
 # givenname
