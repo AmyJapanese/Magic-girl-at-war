@@ -9,6 +9,7 @@ chino sakazuki
 kimagure kairai
 uragiri mono
 benkyo ka
+nakama dukuri
 # surname
 つじ（５）
 つきの（７）
