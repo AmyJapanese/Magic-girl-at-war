@@ -3,6 +3,7 @@ aliases: []
 ---
 # material
 sunao ni naru oko
+kitsuke gusuri
 shiryo jutsu
 kairai jutsu
 chino sakazuki
