@@ -2,8 +2,7 @@
 aliases: []
 ---
 # material
-su ni noru o
-kitsuke gusuri
+kike gusu
 shiryo jutsu
 kairai jutsu
 chino sakazuki
@@ -15,4 +14,6 @@ toaru kisha no memo
 # surname
 つきの（７）
 ねつ（５）
+すおう（３）
 # givenname
+りつ
