@@ -9,4 +9,5 @@ kairai jutsu
 chino sakazuki
 # surname
 つじ（５）
+つきの（７）
 # givenname
