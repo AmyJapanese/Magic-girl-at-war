@@ -8,6 +8,7 @@ shiryo jutsu
 kairai jutsu
 chino sakazuki
 kimagure kairai
+uragiri mono
 # surname
 つじ（５）
 つきの（７）
