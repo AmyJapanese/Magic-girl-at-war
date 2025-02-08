@@ -2,7 +2,7 @@
 aliases: []
 ---
 # material
-sunao ni naru oko
+su ni noru o
 kitsuke gusuri
 shiryo jutsu
 kairai jutsu
@@ -13,7 +13,6 @@ benkyo ka
 nakama dukuri
 toaru kisha no memo
 # surname
-つじ（５）
 つきの（７）
 ねつ（５）
 # givenname
