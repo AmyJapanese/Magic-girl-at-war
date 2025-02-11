@@ -2,8 +2,7 @@
 aliases: []
 ---
 # material
-irai jutsu
-chino sakazuki
+kakazuki
 kimagure kairai
 uragiri mono
 benkyo ka
@@ -14,6 +13,4 @@ toaru kisha no memo
 ねつ（５）
 すおう（３）
 つだ（５）
-つじ（５）
 # givenname
-りつか
