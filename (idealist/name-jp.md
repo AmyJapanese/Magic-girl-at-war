@@ -2,9 +2,7 @@
 aliases: []
 ---
 # material
-kike gusu
-shiryo jutsu
-kairai jutsu
+irai jutsu
 chino sakazuki
 kimagure kairai
 uragiri mono
@@ -15,5 +13,7 @@ toaru kisha no memo
 つきの（７）
 ねつ（５）
 すおう（３）
+つだ（５）
+つじ（５）
 # givenname
-りつ
+りつか
